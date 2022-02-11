@@ -1,3 +1,5 @@
+
+
 #myVideo {
   z-index: -1;
     position: fixed;
@@ -58,3 +60,38 @@
   background-size: 100% 3px;
 }
 
+.project1{
+  height: 200px;
+  width: 300px;
+  background-color: transparent;
+  outline-style: dotted;
+  margin-top: 100px;
+  color: white;
+  
+  
+  
+}
+
+.function{
+  position: absolute;
+  top: 25%;
+  right: 85%;
+  font-size: 30px;
+  text-decoration: none;
+}
+.quote{
+  color: white;
+}
+.from{
+  color: white;
+}
+.generator{
+  width: 300px;
+  height: 200px;
+  background-color: transparent;
+  outline-style: dotted;
+  margin-top: 100px;
+  color: white;
+  float: right;
+  margin-bottom: 25px;
+}
